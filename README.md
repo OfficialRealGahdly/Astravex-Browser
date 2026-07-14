@@ -1,10 +1,10 @@
-# 🌌 Celestis Browser
+# 🌌 Astravex Browser
 
 <div align="center">
 
 <img src="assets/logo.png" alt="Celestis Browser Logo" width="128">
 
-# Celestis Browser
+# Astravex Browser
 
 ### Explore Freely. Browse Privately.
 
@@ -22,11 +22,11 @@ A next-generation privacy-focused web browser built with **Rust**, **Tauri**, an
 
 ## 🌟 About
 
-Celestis Browser is designed from the ground up with one goal:
+Astravex Browser is designed from the ground up with one goal:
 
 > **Give users complete control over their online privacy.**
 
-Unlike traditional browsers, Celestis focuses on:
+Unlike traditional browsers, Astravex focuses on:
 
 - 🛡 Privacy First
 - 🚫 Zero Telemetry

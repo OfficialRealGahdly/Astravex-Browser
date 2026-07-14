@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Celestis Browser Logo" width="128">
+<img src="assets/logo.png" alt="Astravex Browser Logo" width="128">
 
 # Astravex Browser
 

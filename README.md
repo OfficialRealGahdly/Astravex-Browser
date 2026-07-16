@@ -1,8 +1,8 @@
 # 🌌 Astravex Browser
 
 <div align="center">
-
-<img <img width="1254" height="1254" alt="icon" src="https://github.com/user-attachments/assets/ff48504c-e639-406d-a4b3-ec66aa7ca4cb" />
+  
+<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/98636f99-ea20-4df3-a332-4cec8ef11aea" />
 
 # Astravex Browser
 

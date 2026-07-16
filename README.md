@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="assets/logo.png" alt="Astravex Browser Logo" width="128">
+<img <img width="1254" height="1254" alt="icon" src="https://github.com/user-attachments/assets/ff48504c-e639-406d-a4b3-ec66aa7ca4cb" />
 
 # Astravex Browser
 

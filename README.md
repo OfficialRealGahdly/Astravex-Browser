@@ -38,6 +38,7 @@ Unlike traditional browsers, Astravex focuses on:
 - 🧅 Optional Tor Integration
 - 🔑 Encrypted Local Storage
 - ⚡ Fast Performance
+- 📁 Strict No Log Policy
 
 ---
 

@@ -2,7 +2,7 @@
 
 <div align="center">
   
-<img width="1024" height="1024" alt="icon" src="https://github.com/user-attachments/assets/98636f99-ea20-4df3-a332-4cec8ef11aea" />
+<img width="102" height="102" alt="icon" src="https://github.com/user-attachments/assets/98636f99-ea20-4df3-a332-4cec8ef11aea" />
 
 # Astravex Browser
 
